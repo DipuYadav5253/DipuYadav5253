@@ -8,9 +8,13 @@ I aim to combine creativity with technology to solve real-world problems.
 ---
 
 ## 🔭 What I'm Working On
-- Building **real-world Django web apps** (image/video handling, authentication, deployment)  
-- Exploring **AI with Scikit-learn and OpenCV**  
-- Strengthening **JavaScript & React skills** for full-stack development  
+- Developing **scalable Django web applications** with **real-time image/video processing**, **authentication**, and **cloud deployment**  
+- Building **AI-powered solutions** using **Machine Learning, Deep Learning, and Computer Vision** for **real-time decision making**  
+- Designing **end-to-end full-stack applications** integrating **React, REST APIs, and microservices architecture**  
+- Exploring **automation, data pipelines, and CI/CD workflows** to deliver **robust, production-ready software**  
+- Experimenting with **real-time IoT and edge-computing applications**, bridging the gap between hardware and intelligent software systems  
+
+---
 
 ## 🌱 Currently Learning
 - React, Tailwind CSS, and REST APIs  
@@ -70,8 +74,8 @@ Software Developer Intern at **Digitaldict Technology Pvt. Ltd.**, contributing 
 
 ## 📫 How to Reach Me
 - 📧 Email: [dipuyadav5253@gmail.com](mailto:dipuyadav5253@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-link](#)  
-- 🌐 Portfolio: [Add your portfolio link](#)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/dipu-yadav-5b1b7b214/](#)  
+
 
 ---
 
