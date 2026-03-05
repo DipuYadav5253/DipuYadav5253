@@ -1,4 +1,4 @@
-# Data Analyst | PowerBI | Passionate About Java, Python | Django & REST API Developer | AI & ML Enthusiast | Lifelong Learner
+# Python & Java Backend Engineer | ML · Data Pipelines · Microservices | M.Sc. ESIGELEC France
 
 ### 👋 Welcome to my GitHub!
 
