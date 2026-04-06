@@ -1,103 +1,101 @@
-# Python & Java Backend Engineer | ML · Data Pipelines · Microservices | M.Sc. ESIGELEC France
+# Hi, I'm Dipu Yadav 👋
 
-### 👋 Welcome to my GitHub!
+### AI / LLM Engineer · RAG & Retrieval Systems · Python Backend
+### M.Sc. Software Engineering & Digital Transformation — ESIGELEC, France
 
-Master’s student in **Software Engineering & Digital Transformation** at **ESIGELEC, France**.  
-I’m passionate about building **data-driven and intelligent applications**, exploring **AI/ML**, and delivering **end-to-end solutions** that make an impact.
-
----
-
-## 🔭 What I’m Working On
-- Developing **scalable Django web applications** with **REST APIs** and cloud deployment  
-- Building **AI/ML solutions** including data cleaning, model training, and real-time prediction systems  
-- Designing **end-to-end applications** integrating web, Android, and AI/ML models  
-- Exploring **PowerBI and data visualization** for actionable insights  
+I build **LLM-powered retrieval systems, RAG pipelines, and AI-driven backends** using Python.  
+Currently finishing my Masters and actively looking for an **internship in Germany** (available immediately), with openness to full-time from June 2026.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **React**, Tailwind CSS, and modern REST API design  
-- **Docker**, CI/CD pipelines, and cloud deployment strategies  
-- Deep Learning and real-time computer vision applications  
+## 🔧 What I Work With
+
+**LLM / RAG**  
+`LangChain` `FAISS` `HuggingFace Transformers` `BM25 Hybrid Search` `Retrieval Reranking` `Semantic Embeddings` `MLflow`
+
+**AI / ML**  
+`PyTorch` `TensorFlow / Keras` `Scikit-learn` `OpenCV` `Siamese Networks` `CNN` `Weights & Biases`
+
+**Backend**  
+`Python` `FastAPI` `Django` `REST APIs` `WebSockets` `JWT Auth` `RBAC` `Celery` `Redis`
+
+**Databases & DevOps**  
+`PostgreSQL` `Supabase` `SQLAlchemy` `Docker` `Docker Compose` `GitHub Actions` `AWS S3 & EC2` `Prometheus` `Grafana`
 
 ---
 
-## 🏢 Internship Experience
-- **Junior Android Developer** at **Befriends.ai**  
-  - Developed and maintained Android applications using **Java/Kotlin**  
-  - Integrated **Firebase** for backend services including authentication, database, and notifications  
-  - Improved app performance and implemented **intuitive UI/UX designs** for better user engagement  
-  - Collaborated in an agile team environment to deliver features on time  
+## 🚀 Featured Projects
 
-- **Machine Learning Intern** at **Digitaldict Technology Pvt. Ltd.**  
-  - Built and optimized **ML models** for predictive analytics and computer vision tasks  
-  - Worked on **real-time AI applications** including image/video processing and object detection  
-  - Assisted in designing **end-to-end ML pipelines** and integrating them with web applications  
-  - Conducted **data preprocessing, feature engineering, and model evaluation** for high-quality results  
+### [RAG Document Chatbot — Hybrid Retrieval Pipeline](https://github.com/DipuYadav5253/RAG-Document-Chatbot-LangChain-Vector-DB)
+> Python · LangChain · FAISS · HuggingFace Transformers · FastAPI · MLflow · Docker
+
+Retrieval-Augmented Generation pipeline over custom document corpora. Built and compared BM25-only vs. hybrid BM25 + semantic retrieval strategies, tracking precision@k and MRR across experiments via MLflow. Deployed as a streaming FastAPI endpoint inside Docker.
 
 ---
 
-## 🛠 Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+### [Waste Classification App — Edge Computer Vision](https://github.com/DipuYadav5253/Waste-Detection-Mobile-Application)
+> PyTorch · TensorFlow Lite · OpenCV · Android
+
+Custom CNN trained on a labelled waste image dataset, then quantised to INT8 via TF Lite for fully offline inference on Android. End-to-end pipeline: data collection → augmentation → PyTorch training → TF Lite export → Android deployment.
 
 ---
 
-## 🏆 Featured Projects
+### [Aegis — Microservice Health Monitor](https://github.com/DipuYadav5253/enterprise-task-engine)
+> Python · FastAPI · Docker SDK · Prometheus · Grafana · Redis
 
-### 1️⃣ [DrivEazy – Sleep Watcher & Object Detection](https://github.com/DipuYadav5253/DrivEazy)
-**Description:** Affordable IoT-based sleep/drowsiness detection system to improve driver safety.  
-**Tech:** Python, OpenCV, IoT  
-**Highlights:** Real-time detection of yawning and drowsy behavior, multi-platform UI  
-![DrivEazy](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/fb0d5342-ae43-4a3f-84fe-14a82e31f3af)
+State reconciliation engine with heartbeat monitoring and auto-restart logic across a multi-container local environment. Prometheus metrics scraped per service; Grafana dashboard visualises cluster health.
 
 ---
 
-### 2️⃣ [LandChain – Blockchain for Land Ownership](https://github.com/DipuYadav5253/LandChain)
-**Description:** Platform for secure land ownership tokenization and cross-chain asset transfer.  
-**Tech:** Solidity, React, Web3, Ethers.js, Hardhat, Tailwind CSS, Polygon Testnet  
-**Highlights:** Blockchain-based asset proofing and transfer with cross-chain support  
-![LandChain](https://github.com/adityabhamare10/AceHackProject-LandChain/assets/108888187/f4723537-eb51-498c-857f-a1764618a387)
+### [Dashcam Cloud Video Validation Service](https://github.com/DipuYadav5253)
+> Django REST Framework · OpenCV · Supabase (PostgreSQL) · Docker · SHA-256
+
+Secure video upload and SHA-256 integrity verification pipeline. JWT authentication with role-based access control on all endpoints; fully containerised.
 
 ---
 
-### 3️⃣ [BeatWish – Support Independent Artists](https://github.com/DipuYadav5253/BeatWish)
-**Description:** Android app enabling audience support for artists through paid song requests.  
-**Tech:** Java, Firebase, Realtime Database, Figma  
-**Highlights:** Real-time engagement and revenue generation for creators  
-![BeatWish](https://github.com/adityabhamare10/BeatWish/assets/108888187/7e5151fc-5210-4a29-9618-c6370331f1a2)
+### [Geo-Localisation Research — ESIGELEC](https://github.com/DipuYadav5253)
+> PyTorch · Siamese Networks · SIFT · OpenCV · TensorFlow Lite · Android
+
+Research project supervised by Prof. Karim Hammoudi. Hybrid SIFT + CNN + Siamese Network model achieving 20–30 m localisation accuracy, exported to TF Lite for ~12 FPS edge inference on Android.
 
 ---
 
-## 🧠 Professional Development
-I’m constantly refining my skills by:
-- Learning **modern web frameworks & deployment practices**  
-- Enhancing **AI & ML application capabilities**  
-- Collaborating in **open-source and hackathon environments**  
+### [DrivEazy — Real-time Driver Safety System](https://github.com/DipuYadav5253/DrivEazy)
+> Python · OpenCV · IoT
+
+Real-time drowsiness and yawn detection system — AceHack & MozoHack finalist.
 
 ---
 
-## 💡 Fun Facts
-- 🧠 Love working on projects that blend logic with creativity  
-- ✈️ First international flight from Nepal to France — tech dreams taking flight!  
-- 🎮 Enjoy gaming, war-themed movies, and staying curious  
+## 💼 Internship Experience
+
+**ML / Backend Engineering Intern** — Digitaldict Technology Pvt. Ltd. *(Sept–Dec 2024)*  
+Built customer segmentation models, automated ETL pipelines with Pandas/SQL, optimised Django ORM queries, and created Tableau dashboards for stakeholder reporting.
+
+**Backend Engineering Intern** — HAZHTeq Innovations *(Feb–Jun 2023)*  
+Built real-time messaging backend with WebSockets, implemented Redis caching, and designed REST APIs consumed by an Android Retrofit client.
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: [dipuyadav5253@gmail.com](mailto:dipuyadav5253@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/dipu-yadav-5b1b7b214/](https://www.linkedin.com/in/dipu-yadav-5b1b7b214/)    
+## 🎓 Education
+
+**M.Sc. Software Engineering & Digital Transformation** — ESIGELEC, Rouen, France *(2025–2026)*  
+**B.Tech Computer Science & Engineering** — Parul Institute of Technology, India *(2021–2025)* · CGPA 8.66/10
 
 ---
 
-📌 Thanks for visiting my GitHub — explore my work and feel free to reach out!
+## 🏅 Recognition
+
+- 🥇 **Dewang Mehta IT Award 2023** — presented by Director of IBM India
+- 🏆 **AceHack & MozoHack Finalist** — LandChain (blockchain land registry) · DrivEazy (CNN driver safety)
+- 📜 IBM Cloud Essentials · NPTEL Data Analytics with Python · NPTEL Software Engineering
+
+---
+
+## 📍 Availability
+
+📌 **Seeking internship in Germany — available immediately**  
+📌 Open to full-time roles from June 2026 · Willing to relocate · Working language: English
+
+📧 dipuyadav5253@gmail.com · [LinkedIn](https://linkedin.com/in/dipu-yadav)
